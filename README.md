@@ -1,3 +1,4 @@
+![snipe_game](https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg)
 ## ¡Hola mundo! 👋 Soy [Carlos Garzón C!](https://madebygarzon.com)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgarzonc/)
