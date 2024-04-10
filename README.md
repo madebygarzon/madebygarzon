@@ -34,16 +34,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/carlosgarzonc/" target="_blank">
+  <a target="_blank" href="https://www.linkedin.com/in/carlosgarzonc/" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>&nbsp
-  <a href="mailto:contacto@madebygarzon.com" target="_blank">
+  <a target="_blank" href="mailto:contacto@madebygarzon.com" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
   </a>&nbsp
-  <a href="https://codepen.io/madebygarzon" target="_blank">
+  <a target="_blank" href="https://codepen.io/madebygarzon" >
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="25" alt="codepen logo"  />
   </a>&nbsp
-  <a href="https://wa.me/573217979089/" target="_blank">
+  <a target="_blank" href="https://wa.me/573217979089/" >
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
   </a>
 </div>
