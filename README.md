@@ -1,5 +1,7 @@
 <h2 align="left">¡Hello World!  👋 I´m Carlos Garzón C</h2>
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=zj57q5f1gocwo8thomjt1gpkm&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=zj57q5f1gocwo8thomjt1gpkm&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)]]
+
 ###
 
 <div align="left">
