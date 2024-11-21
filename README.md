@@ -8,7 +8,7 @@ I´m Assionate Systems Engineer with solid experience as a fullstack web develop
 
 * 🌍  I'm based in Manizales - Colombia
 * 🖥️  See my portfolio at [MyPortfolio](http://bygarzon.com)
-* ✉️  You can contact me at [contact@madebygarzon.com](mailto:contact@madebygarzon.com)
+* ✉️  You can contact me at [contact@bygarzon.com](mailto:contact@bygarzon.com)
 * 🧠  I'm learning Machine Learning
 
 ### Skills
