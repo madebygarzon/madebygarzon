@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Systems Engineer and Fullstack Web Developer
 --------------------------------------------
 
-I´m Assionate Systems Engineer with solid experience as a fullstack web developer. My focus is on creating digital solutions that are not only functional but also comply with best development practices. I am excited to work on projects that challenge my ability to combine creative front-end design with back-end logic, thus creating intuitive and efficient user experiences.
+I´m Passionate Systems Engineer with solid experience as a fullstack web developer. My focus is on creating digital solutions that are not only functional but also comply with best development practices. I am excited to work on projects that challenge my ability to combine creative front-end design with back-end logic, thus creating intuitive and efficient user experiences.
 
 * 🌍  I'm based in Manizales - Colombia
 * 🖥️  See my portfolio at [MyPortfolio](http://bygarzon.com)
