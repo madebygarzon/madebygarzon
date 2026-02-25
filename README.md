@@ -8,7 +8,7 @@ I´m Passionate Systems Engineer with solid experience as a fullstack web develo
 
 * 🌍  I'm based in Manizales - Colombia
 * 🖥️  See my portfolio at [MyPortfolio](http://bygarzon.com)
-* ✉️  You can contact me at [contact@bygarzon.com](mailto:contact@bygarzon.com)
+* ✉️  You can contact me at [madebygarzon@gmail.com](mailto:madebygarzon@gmail.com)
 * 🧠  I'm learning Machine Learning
 
 ### Skills
