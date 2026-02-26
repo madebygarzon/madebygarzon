@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer and Fullstack Web Developer
 --------------------------------------------
 
-I´m Passionate Systems Engineer with solid experience as a fullstack web developer. My focus is on creating digital solutions that are not only functional but also comply with best development practices. I am excited to work on projects that challenge my ability to combine creative front-end design with back-end logic, thus creating intuitive and efficient user experiences.
+I am a Software Engineer and Full Stack Developer with strong experience building scalable web applications, SaaS platforms, and marketplace systems.<br>My work spans the full development lifecycle — from backend architecture, database design, and API development to modern frontend interfaces and deployment pipelines. I prioritize clean architecture, maintainable code, performance, and long-term scalability.<br>I enjoy working on challenging problems that require both technical depth and product thinking. Beyond coding, I focus on system design, automation, CI/CD, and building reliable infrastructure.
 
 * 🌍  I'm based in Manizales - Colombia
 * 🖥️  See my portfolio at [MyPortfolio](http://bygarzon.com)
