@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlos Garzón C.
 ==============================================================================================================================================
 
-Software Engineer and Fullstack Web Developer
+Software Engineer and Fullstack Developer
 --------------------------------------------
 
 I am a Software Engineer and Full Stack Developer with strong experience building scalable web applications, SaaS platforms, and marketplace systems.<br>My work spans the full development lifecycle — from backend architecture, database design, and API development to modern frontend interfaces and deployment pipelines. I prioritize clean architecture, maintainable code, performance, and long-term scalability.<br>I enjoy working on challenging problems that require both technical depth and product thinking. Beyond coding, I focus on system design, automation, CI/CD, and building reliable infrastructure.
@@ -9,7 +9,6 @@ I am a Software Engineer and Full Stack Developer with strong experience buildin
 * 🌍  I'm based in Manizales - Colombia
 * 🖥️  See my portfolio at [MyPortfolio](http://bygarzon.com)
 * ✉️  You can contact me at [madebygarzon@gmail.com](mailto:madebygarzon@gmail.com)
-* 🧠  I'm learning Machine Learning
 
 ### Skills
 
